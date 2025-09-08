@@ -33,7 +33,7 @@ Data clearing,Model building, EDA,ML algorithm
 ## 📌 Featured Projects
 - 📂 [self driving car direction prediction ](https://github.com/PavitraVaidya/project.git)  
 - 📂 [Real time face recognition](https://github.com/PavitraVaidya/Real-time-face-recognition.git)
-- 📂 [- ElderSense AI: Real-Time Support for Senior Safety](https://github.com/PavitraVaidya/Hackthon.git)  
+- 📂 [ ElderSense AI: Real-Time Support for Senior Safety](https://github.com/PavitraVaidya/Hackthon.git)  
 - 📂 [Analyzing and interpreting statistical data ](https://github.com/PavitraVaidya/Internship.git)  
 
 ---

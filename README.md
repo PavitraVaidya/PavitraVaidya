@@ -14,7 +14,7 @@
 ---
 
 ## 🛠 Tech Stack
-- *Languages:* Python
+- *Languages:* Python, C
 - *Libraries:* Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly  
 - *Databases:* SQL  
 - *Frameworks/Tools:* FastAPI, PyTorch, TensorFlow  

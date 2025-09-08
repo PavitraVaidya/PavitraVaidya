@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack
 - *Languages:* Python,
-- - *Data Science:* Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly  
+  *Data Science:* Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly  
 - *Databases:* SQL  
 - *Frameworks/Tools:* FastAPI, PyTorch, TensorFlow  
 - *Data science concepts :*
@@ -30,9 +30,9 @@ Data clearing,Model building, EDA,ML algorithm
 
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PavitraVaidya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+#### ![](https://github-contributor-stats.vercel.app/api?username=PavitraVaidya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=PavitraVaidya&icon=0&color=1)](https://visitcount.itsvg.in)
+#### [![](https://visitcount.itsvg.in/api?id=PavitraVaidya&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PavitraVaidya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

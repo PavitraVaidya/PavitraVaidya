@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack
 - *Languages:* Python,
-  -*Data Science:* Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly  
+- *Libraries:* Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly  
 - *Databases:* SQL  
 - *Frameworks/Tools:* FastAPI, PyTorch, TensorFlow  
 - *Data science concepts :*

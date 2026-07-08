@@ -66,23 +66,14 @@
 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail\&logoColor=white)](mailto:pavitravaidya844@gmail.com)
 
----
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PavitraVaidya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavitraVaidya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PavitraVaidya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavitraVaidya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PavitraVaidya&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PavitraVaidya&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+---
 
 ## 📈 Contribution Graph
 
@@ -90,15 +81,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavitraVaidya&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PavitraVaidya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
-## 👀 Profile Views
-
-<p align="center">
   <img src="https://visitcount.itsvg.in/api?id=PavitraVaidya&icon=5&color=6" />
 </p>
   <img src="https://visitcount.itsvg.in/api?id=PavitraVaidya&icon=5&color=6"/>

@@ -65,8 +65,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pavitra-vaidya)
 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail\&logoColor=white)](mailto:pavitravaidya844@gmail.com)
-
-
-  <img src="https://visitcount.itsvg.in/api?id=PavitraVaidya&icon=5&color=6"/>
-</p>
-

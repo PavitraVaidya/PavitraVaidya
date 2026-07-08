@@ -66,23 +66,7 @@
 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail\&logoColor=white)](mailto:pavitravaidya844@gmail.com)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PavitraVaidya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavitraVaidya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavitraVaidya&theme=tokyo-night&hide_border=true" />
-</p>
-
-  <img src="https://visitcount.itsvg.in/api?id=PavitraVaidya&icon=5&color=6" />
-</p>
   <img src="https://visitcount.itsvg.in/api?id=PavitraVaidya&icon=5&color=6"/>
 </p>
 

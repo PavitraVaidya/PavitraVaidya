@@ -25,28 +25,25 @@
 * HTML5
 * CSS3
 * JavaScript
-* C
+* Machine Learning
 
 ### ⚙️ Frameworks & Technologies
 
 * Django
 * FastAPI
 * REST APIs
-* Bootstrap
 
 ### 🗄️ Databases
 
-* MySQL
+* Oracle
 * SQL Server (SSMS)
 
 ### 🧰 Tools & Platforms
 
-* Git
 * GitHub
 * Visual Studio Code
 * PyCharm
 * Jupyter Notebook
-* Postman
 
 ### 📚 Core Skills
 
@@ -67,7 +64,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pavitra-vaidya)
 
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail\&logoColor=white)](mailto:pp7414937@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail\&logoColor=white)](mailto:pavitravaidya844@gmail.com)
 
 ---
 

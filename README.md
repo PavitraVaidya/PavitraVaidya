@@ -68,18 +68,38 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=PavitraVaidya\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PavitraVaidya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavitraVaidya&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=PavitraVaidya\&theme=dark\&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PavitraVaidya&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavitraVaidya\&theme=dark\&hide_border=false\&layout=compact)
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PavitraVaidya&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
 ## 🔝 Top Contributed Repository
 
-![](https://github-contributor-stats.vercel.app/api?username=PavitraVaidya\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=PavitraVaidya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
 
-![](https://visitcount.itsvg.in/api?id=PavitraVaidya\&icon=0\&color=1)
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=PavitraVaidya&icon=5&color=6"/>
+</p>
+

@@ -67,50 +67,40 @@
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail\&logoColor=white)](mailto:pavitravaidya844@gmail.com)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PavitraVaidya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavitraVaidya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PavitraVaidya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavitraVaidya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PavitraVaidya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=PavitraVaidya&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PavitraVaidya&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PavitraVaidya&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavitraVaidya&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavitraVaidya&theme=tokyo-night&hide_border=true" />
 </p>
-
----
 
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PavitraVaidya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=PavitraVaidya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
-
----
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PavitraVaidya&icon=5&color=6"/>
+  <img src="https://visitcount.itsvg.in/api?id=PavitraVaidya&icon=5&color=6" />
 </p>
-<p align="center">
   <img src="https://visitcount.itsvg.in/api?id=PavitraVaidya&icon=5&color=6"/>
 </p>
 
